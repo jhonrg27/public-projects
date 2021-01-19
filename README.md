@@ -3,7 +3,7 @@ This is an application to send and receive SMS using NodeJS, Twilio, Mongodb, an
 
 Development of a web interface where you can send SMS to the phone, also the reverse process from the phone to the web interface through a phone number provided by Twilio.
 
-![](./nodejs-twilio.jps)
+![](./nodejs-twilio.jpg)
 
 # Required Software
 * Nodejs
